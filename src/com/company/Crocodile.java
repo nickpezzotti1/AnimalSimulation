@@ -7,8 +7,7 @@ import java.util.ArrayList;
  * A simple model of a crocodile
  * crocodile is an amphibian animal
  *
- * @author Dario Nunez and Nicholas Pezzoti
- * @version 19/02/2018
+ * @author Nicholas Pezzoti
  */
 public class Crocodile extends Amphibian {
     private static final int BREEDING_AGE = 15;

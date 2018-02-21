@@ -6,7 +6,7 @@ import java.util.Random;
  * A simple model of a rabbit
  * rabbit is a land animal
  *
- * @author Dario Nunez and Nicholas Pezzoti
+ * @author Nicholas Pezzoti
  * @version 19/02/2018
  */
 public class Rabbit extends GroundAnimal {

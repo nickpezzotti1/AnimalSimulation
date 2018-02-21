@@ -8,7 +8,7 @@ import java.util.List;
  * and behaviours shared by all organisms in the simulation, defines
  * abstract methods that are implemented in subclasses.
  *
- * @author Dario Nunez and Nicholas Pezzotti
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class Organism {

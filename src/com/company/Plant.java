@@ -7,7 +7,7 @@ import java.util.Random;
  * A class representing shared characteristics and behaviours of plants.
  * Implements spreading and a different act method from animals
  *
- * @author Dario Nunez and Nicholas Pezzotti
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class Plant extends Organism{

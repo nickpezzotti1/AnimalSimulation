@@ -12,8 +12,7 @@ import java.util.HashMap;
  * A simple predator-prey simulator, based on a rectangular field
  * containing rabbits, foxes, crocodiles, fish and grass
  * 
- * @author David J. Barnes and Michael Kölling
- * @version 2016.02.29 (2)
+ * @author Nicholas Pezzotti
  */
 public class Simulator
 {

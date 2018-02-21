@@ -4,8 +4,8 @@ import java.util.*;
 /**
  * Write a description of class Weather here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Nicholas Pezzotti
+ * @version 1.0.0
  */
 public class Weather
 {

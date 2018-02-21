@@ -6,7 +6,7 @@ import java.util.Random;
  * A simple model of grass
  * grass is a plant
  *
- * @author Dario Nunez and Nicholas Pezzoti
+ * @author Nicholas Pezzoti
  * @version 19/02/2018
  */
 public class Grass extends Plant {

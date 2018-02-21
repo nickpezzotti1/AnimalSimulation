@@ -3,8 +3,7 @@ package com.company;
 /**
  * Represent a location in a rectangular grid.
  * 
- * @author David J. Barnes and Michael Kölling
- * @version 2016.02.29
+ * @author Nicholas Pezzotti
  */
 public class Location
 {

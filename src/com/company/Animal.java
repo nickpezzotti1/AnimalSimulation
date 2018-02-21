@@ -7,8 +7,8 @@ import java.util.Random;
  * A class representing shared characteristics and behaviours of animals.
  * Implements moving, breeding and feeding behaviours particular to
  * the animal branch.
- * 
- * @author Dario Nunez and Nicholas Pezzotti
+ *
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class Animal extends Organism {

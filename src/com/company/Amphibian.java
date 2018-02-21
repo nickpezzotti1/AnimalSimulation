@@ -4,7 +4,7 @@ package com.company;
  * A class necessary for the implementation of amphibian animals
  * Allows them to exist in both water an land
  *
- * @author Dario Nunez and Nicholas Pezzotti
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class Amphibian extends Animal

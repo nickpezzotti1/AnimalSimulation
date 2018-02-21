@@ -4,7 +4,7 @@ package com.company;
  * A class necessary for the implementation of water animals
  * Allows them to exist only in water
  *
- * @author Dario Nunez and Nicholas Pezzotti
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class WaterAnimal extends Animal

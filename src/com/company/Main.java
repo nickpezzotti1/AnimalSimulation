@@ -1,12 +1,5 @@
 package com.company;
 
-/**
- * Main class used for initial setup of the Simulator
- * Used for testing outside of BlueJ
- *
- * @author Dario Nunez and Nicholas Pezzotti
- * @version 1
- */
 public class Main {
 
     /**

@@ -4,7 +4,7 @@ package com.company;
  * A class necessary for the implementation of ground animals
  * Allows them to exist only in land
  *
- * @author Dario Nunez and Nicholas Pezzotti
+ * @author Nicholas Pezzotti
  * @version 19/02/2018
  */
 public abstract class GroundAnimal extends Animal
